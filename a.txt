@@ -1,5 +1,5 @@
 apples
-sour oranges
+Sour oranges
 oranges
 kiwis
 carrots
